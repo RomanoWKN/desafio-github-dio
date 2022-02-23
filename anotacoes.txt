@@ -12,3 +12,4 @@ curso da DIO
 - ls -la //uma lista de todas as pastas inclusive as ocultas
 - git remote -v  //origem dos repositorios 
 - git config --list  //mostra a lista de configurações do github
+- git init //inicia um repositorio no github
