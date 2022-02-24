@@ -1,11 +1,18 @@
 # Esse arquivo txt é para a anotação dos codigos a serem aprendidos no 
 curso da DIO
 
+Os quatro primeiros codigos servem para enviar um arquivo local para o repositorio online(devem ser feitos na ordem)
+1- git clone  //serve para clonar um repositorio
+2- git add .  //adiciona todos os arquivos que não estão no repositorio
+3- git commit -m "Titulo" //serve para colocar titulo
+4-- git push origin main  //manda todos os arquivos alterados e com titulo
+
+
 - git status  //mostra a situação atual do diretorio 
-- git commit -m "Titulo" //serve para colocar titulo 
-- git push origin main  //manda todos os arquivos alterados e com titulo
-- git add .  //adiciona todos os arquivos que não estão no repositorio
-- git clone  //serve para clonar um repositorio 
+ 
+
+
+ 
 - cd /c  //serve para ir em uma pasta especifica da maquina
 - cd ..  //serve para retroceder a pasta atual
 - ls  //uma lista de todas as pastas 
